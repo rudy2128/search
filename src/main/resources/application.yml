@@ -1,0 +1,22 @@
+server:
+  port: 8990
+
+app:
+  name: "search-0.0.1-SNAPSHOT service"
+
+
+
+
+index-name:
+  person: mobile_position
+
+
+elasticsearch:
+  url: "192.168.18.205:9200"
+  host: "192.168.18.205"
+  port: 9200
+  username: "elastic"
+  password: "RyuF3TFzo"
+
+
+
